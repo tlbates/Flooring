@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Fred,MI,5.75,Tile,67,3.50,4.15,234.50,278.05,2947.16,3459.71
+3,Velma,PA,6.75,Laminate,56,1.75,2.10,98.00,117.60,1455.30,1670.90
+2,Adams,PA,6.75,Laminate,100.00,1.75,2.10,515.00,475.00,61.88,1051.88

@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Fred,IN,6.00,Wood,24,5.15,4.75,123.60,114.00,1425.60,1663.20
+2,George,MI,5.75,Wood,456,5.15,4.75,2348.40,2166.00,25957.80,30472.20
+1,Fred,OH,6.25,Carpet,47,2.25,2.10,105.75,98.70,1277.81,1482.26

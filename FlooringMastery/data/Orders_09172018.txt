@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Sandra,PA,6.75,Wood,998,5.15,4.75,5139.70,4740.50,66691.35,76571.55
+3,Vinny,IN,6.00,Tile,786,3.50,4.15,2751.00,3261.90,36077.40,42090.30
+1,Weasely,OH,6.25,Tile,4893465,3.50,4.15,17127127.50,20307879.75,233968795.31,271403802.56
